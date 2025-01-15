@@ -1,7 +1,7 @@
 ## I'm a software developer
 Desenvolvedor back-end com interesse no universo Web3/Blockchain.
 
-## 🧠 Sobre
+## Sobre
 * **Stack principal:** Node.js, TypeScript, Nest.js, Jest, PostgreSQL, Docker.
 * **Objetivo:** Aprofundar meu conhecimento em desenvolvimento back-end e me aprofundar no universo Web3/Blockchain.
 
