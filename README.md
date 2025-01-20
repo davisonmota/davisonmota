@@ -2,7 +2,7 @@
 Desenvolvedor back-end com interesse no universo Web3/Blockchain.
 
 ## Sobre
-* **Stack principal:** Node.js, TypeScript, Nest.js, Jest, PostgreSQL, AWS, Docker.
+* **Stack principal:** Node.js, TypeScript, Nest.js, Jest, PostgreSQL, Docker.
 * **Objetivo:** Aprofundar meu conhecimento em desenvolvimento back-end e no universo Web3/Blockchain.
 
 ## Principais Projetos
