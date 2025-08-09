@@ -3,7 +3,7 @@ Desenvolvedor full stack com foco em desenvolver soluções eficientes para Web2
 
 Sou um profissional focado em resolver problemas dos clientes, priorizando soluções eficazes em vez de tecnologias específicas. Estudo, aprendo e aplico o que for necessário para alcançar os melhores resultados.
 
-Sou um profissional que sempre busca desenvolver minhas habilidades, movido pela curiosidade de entender o problema, as tecnologias e os conceitos fundamentais.
+Profissional em constante desenvolvimento, movido pela curiosidade de compreender problemas, tecnologias e conceitos fundamentais.
 
 ## Principais Projetos
 ### [1. RealWorld app: Conduit](https://github.com/davisonmota/conduit-realworld-app-nestjs)
