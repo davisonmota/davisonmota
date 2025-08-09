@@ -15,5 +15,18 @@ RealWorld é um projeto da vida real, uma aplicação de blogging completa, incl
   
 **Stack:** Nest.js, TypeScript, TypeOrm, PostgreSQL, Docker, Jest
 
+## 2. [iFood Dashboard](https://github.com/davisonmota/pizzashop)  
+Dashboard para gestão de estabelecimentos e controle de pedidos inspirado no iFood.
+
+- Implementação de autenticação JWT e login via magic link  
+- Integração com API para cadastro, pedidos, avaliações e métricas  
+- Caching e revalidação de dados com React Query  
+- Gestão de cardápio, perfil e status de funcionamento da loja  
+- Métricas visuais com gráficos (pedidos e valores dos últimos 15 dias, médias de avaliações e pedidos)  
+- Notificações sonoras e alteração do favicon para novos pedidos  
+- Testes unitários  
+
+**Stack:** React, React Router DOM, Tailwind CSS, shadcn/ui, React Query, Radix
+
 ___
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,jest,vitest,docker,git,linux,bash,postgres,mongodb,graphql,express&theme=dark)](https://www.linkedin.com/in/davisonmota/)
