@@ -1,9 +1,9 @@
-## I'm a software developer
-Desenvolvedor back-end com interesse no universo Web3/Blockchain.
+## I'm a full stack developer
+Desenvolvedor full stack com foco em desenvolver soluções eficientes para Web2 e Web3 com TypeScript, React, Next.js, Node.js, Nest.Js e Solidity. 
 
-## Sobre
-* **Stack principal:** Node.js, TypeScript, Nest.js, Jest, PostgreSQL, Docker.
-* **Objetivo:** Aprofundar meu conhecimento em desenvolvimento back-end e no universo Web3/Blockchain.
+Sou um profissional focado em resolver problemas dos clientes, priorizando soluções eficazes em vez de tecnologias específicas. Estudo, aprendo e aplico o que for necessário para alcançar os melhores resultados.
+
+Sou um profissional que sempre busca desenvolver minhas habilidades, movido pela curiosidade de entender o problema, as tecnologias e os conceitos fundamentais.
 
 ## Principais Projetos
 ### [1. RealWorld app: Conduit](https://github.com/davisonmota/conduit-realworld-app-nestjs)
